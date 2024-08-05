@@ -35,7 +35,7 @@ git clone https://github.com/CamiloMachuca/Ejercicio1_MachucaCamilo.git
 
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 124938.png>)
 
-4. Ejecutas el programa en botón de color verde. 
+4. Ejecutas el programa en el botón de color verde. 
 
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 125105.png>)
 
