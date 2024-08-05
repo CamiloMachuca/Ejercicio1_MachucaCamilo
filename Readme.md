@@ -23,7 +23,7 @@ Este programa cuenta con las siguientes opciones:
 ## Instrucciones de uso
 1. Debes tener instalado Pseint. 
 
-![alt text](<imágenes/Captura de pantalla 2024-08-05 124553.png>)
+![alt text](<imagenes/Captura de pantalla 2024-08-05 124553.png>)
 
 2. Debes clonar el repositorio. 
 - Para clonar el repositorio escribe el siguiente comando en git bash
